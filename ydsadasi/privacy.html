@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YDS ADASI - Gizlilik Politikası</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.55; margin: 0; padding: 0; }
+      main { max-width: 920px; margin: 0 auto; padding: 28px 18px 56px; }
+      h1 { margin: 0 0 12px; font-size: 26px; }
+      h2 { margin: 26px 0 10px; font-size: 18px; }
+      p, li { font-size: 15px; }
+      .muted { opacity: .8; }
+      a { color: inherit; }
+      .box { border: 1px solid rgba(127,127,127,.3); border-radius: 12px; padding: 14px 16px; }
+      ul { padding-left: 18px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>YDS ADASI - Gizlilik Politikası</h1>
+      <p class="muted">Son güncelleme: <span id="d"></span></p>
+
+      <div class="box">
+        <p><strong>Özet:</strong> YDS ADASI, temel içerikleri cihaz üzerinde çalışacak şekilde tasarlanmıştır. Uygulama içinde reklam (Google AdMob) ve abonelik (Apple In‑App Purchase) özellikleri bulunduğundan, bazı teknik veriler üçüncü taraf hizmet sağlayıcılar tarafından işlenebilir.</p>
+      </div>
+
+      <h2>1) Toplanan veriler</h2>
+      <p>Uygulama içinde kullanıcı hesabı oluşturma veya kullanıcıdan ad/soyad/e‑posta gibi zorunlu kişisel bilgi toplama bulunmaz.</p>
+      <p>Ancak aşağıdaki veri türleri, kullanılan SDK’lar kapsamında işlenebilir:</p>
+      <ul>
+        <li><strong>Cihaz Tanımlayıcıları:</strong> Reklam gösterimi ve ölçümü için cihazla ilgili tanımlayıcılar (ör. reklam tanımlayıcıları) üçüncü taraf reklam ağı tarafından kullanılabilir.</li>
+        <li><strong>Kullanım Verileri:</strong> Uygulama içi etkileşimler ve reklam etkileşimleri (örn. reklam gösterimi) ölçümleme amacıyla işlenebilir.</li>
+        <li><strong>Tanılama Verileri:</strong> Çökme (crash) ve performans verileri (örn. yüklenme süresi) uygulama kararlılığını artırmak için işlenebilir.</li>
+      </ul>
+
+      <h2>2) Verilerin kullanım amaçları</h2>
+      <ul>
+        <li><strong>Reklam:</strong> Uygulama içi reklamların gösterilmesi ve reklam performansının ölçülmesi (Google AdMob).</li>
+        <li><strong>Abonelik/Satın Alma:</strong> PRO aboneliği ve satın alma işlemlerinin yürütülmesi ve geri yüklenmesi (Apple In‑App Purchase).</li>
+        <li><strong>Analitik ve uygulama işlevselliği:</strong> Hataların tespiti ve performans iyileştirmeleri.</li>
+      </ul>
+
+      <h2>3) Üçüncü taraf hizmetler</h2>
+      <p>Uygulama aşağıdaki hizmetleri kullanabilir:</p>
+      <ul>
+        <li><strong>Google AdMob</strong> (reklam)</li>
+        <li><strong>Apple In‑App Purchase</strong> (abonelik/satın alma)</li>
+      </ul>
+      <p>Bu hizmetler kendi gizlilik politikalarına göre veri işleyebilir. Güncel politikalar için ilgili sağlayıcıların dokümantasyonlarını inceleyebilirsiniz.</p>
+
+      <h2>4) Veri saklama</h2>
+      <p>Uygulama içi öğrenme verileri (ilerleme, favoriler vb.) öncelikle cihaz üzerinde saklanır. Üçüncü taraf SDK’lar tarafından toplanan teknik veriler, ilgili sağlayıcıların saklama politikalarına tabidir.</p>
+
+      <h2>5) Çocukların gizliliği</h2>
+      <p>Uygulama genel kitleye yöneliktir ve çocuklara özel (Made for Kids) olarak hedeflenmez.</p>
+
+      <h2>6) Haklar ve iletişim</h2>
+      <p>Bu politika hakkında soru veya talep için bizimle iletişime geçebilirsiniz:</p>
+      <ul>
+        <li>E‑posta: <a href="mailto:kerimyorulmaz+ydsadasi@gmail.com">kerimyorulmaz+ydsadasi@gmail.com</a></li>
+      </ul>
+
+      <h2>7) Değişiklikler</h2>
+      <p>Gizlilik politikası zaman zaman güncellenebilir. Güncellenmiş sürüm bu sayfada yayımlanır.</p>
+
+      <hr />
+      <p class="muted">English summary: This app primarily works offline. Ads (Google AdMob) and subscriptions (Apple In‑App Purchase) may process limited device/usage/diagnostic data for advertising, analytics, and app functionality.</p>
+    </main>
+
+    <script>
+      const el = document.getElementById('d');
+      const now = new Date();
+      el.textContent = now.toISOString().slice(0, 10);
+    </script>
+  </body>
+</html>

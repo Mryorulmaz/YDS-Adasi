@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yorulmaz Apps</title>
+    <meta name="description" content="Yorulmaz Apps — destek ve gizlilik sayfaları." />
+    <style>
+      :root { color-scheme: light dark; }
+      body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin:0; line-height:1.6; }
+      header { padding: 52px 20px 10px; text-align:center; }
+      h1 { margin: 0 0 10px; font-size: 40px; letter-spacing: -0.3px; }
+      p.lead { margin: 0 auto; max-width: 820px; font-size: 16px; opacity:.85; }
+      main { max-width: 980px; margin: 0 auto; padding: 18px 20px 40px; }
+      .cards { display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap:16px; }
+      .card { border: 1px solid rgba(127,127,127,.22); border-radius: 14px; padding: 18px; background: rgba(255,255,255,.02); }
+      .card h2 { margin: 0 0 8px; font-size: 18px; }
+      .card p { margin: 0 0 12px; opacity: .82; }
+      .links a { display:inline-block; margin-right: 10px; text-decoration:none; border-bottom: 1px solid rgba(127,127,127,.35); padding-bottom: 2px; }
+      .btnrow { margin-top: 8px; }
+      a.btn {
+        display:inline-block; padding:10px 14px; border-radius:10px;
+        background:#1A237E; color:#fff; text-decoration:none;
+      }
+      footer { margin: 36px 0 20px; font-size: 13px; opacity: .75; text-align:center; }
+      @media (prefers-color-scheme: dark){ .card{ border-color:rgba(255,255,255,.18);} }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Yorulmaz Apps</h1>
+      <p class="lead">Uygulamalarımın destek ve gizlilik sayfaları.</p>
+    </header>
+
+    <main>
+      <div class="cards">
+        <section class="card">
+          <h2>GarageLoop</h2>
+          <p>Yerel paylaşım topluluğu.</p>
+          <div class="links">
+            <a href="/support.html">Support</a>
+            <a href="/privacy.html">Privacy Policy</a>
+            <a href="/terms.html">Terms</a>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>YDS ADASI</h2>
+          <p>YDS/YÖKDİL için kelime kartları ve quiz.</p>
+          <div class="links">
+            <a href="/ydsadasi/">Support</a>
+            <a href="/ydsadasi/privacy.html">Privacy Policy</a>
+            <a href="/ydsadasi/privacy-choices.html">Privacy Choices</a>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <footer>© <span id="y"></span> Yorulmaz Apps</footer>
+    <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+  </body>
+</html>
