@@ -1,0 +1,72 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# --- Güvenlik: asla repoya eklenmemesi gerekenler ---
+# Android imzalama
+**/key.properties
+*.jks
+*.keystore
+
+# Ortam değişkenleri / yerel sırlar
+.env
+.env.*
+!.env.example
+
+# Android SDK yolu (kişisel makine bilgisi)
+**/local.properties
+
+# İsteğe bağlı: Firebase istemci dosyalarını repoda tutmak istemezseniz
+# açın (çoğu projede bunlar commit edilir; kısıtlı paylaşım için ignore edilebilir)
+# /android/app/google-services.json
+# /ios/Runner/GoogleService-Info.plist
+
+# --- Sınırlı paylaşım: yalnızca lib, assets, pubspec.yaml (+ bu dosya) ---
+# Tam projeyi repoya almak istersen aşağıdaki 6 satırı sil veya yorum satırı yap.
+/*
+!.gitignore
+!/lib/
+!/assets/
+!/pubspec.yaml

@@ -1,0 +1,1005 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "abnegate",
+      "word": "abnegate",
+      "level": "C2",
+      "meaning": "feragat etmek",
+      "example": "Leaders abnegated power that the constitution had granted.",
+      "example_tr": "Liderler anayasanın verdiği yetkiden feragat etti."
+    },
+    {
+      "id": "abstemious",
+      "word": "abstemious",
+      "level": "C2",
+      "meaning": "ölçülü",
+      "example": "The abstemious budget cut spending that ministries had requested.",
+      "example_tr": "Ölçülü bütçe bakanlıkların talep ettiği harcamaları kıstı."
+    },
+    {
+      "id": "acclimate",
+      "word": "acclimate",
+      "level": "C1",
+      "meaning": "alışmak",
+      "example": "Migrants acclimate to norms that the host country had set.",
+      "example_tr": "Göçmenler ev sahibi ülkenin koyduğu normlara alışır."
+    },
+    {
+      "id": "accost",
+      "word": "accost",
+      "level": "C2",
+      "meaning": "sokulup konuşmak",
+      "example": "Protesters accosted officials whom the state had sent.",
+      "example_tr": "Protestocular devletin gönderdiği yetkililere sokulup konuştu."
+    },
+    {
+      "id": "adamant",
+      "word": "adamant",
+      "level": "C1",
+      "meaning": "dik başlı",
+      "example": "The bloc was adamant although mediators had urged compromise.",
+      "example_tr": "Arabulucular uzlaşma istese de blok dik başlıydı."
+    },
+    {
+      "id": "adversarial",
+      "word": "adversarial",
+      "level": "C1",
+      "meaning": "düşmanca",
+      "example": "Adversarial relations undermined trust that the pact had built.",
+      "example_tr": "Düşmanca ilişkiler paktın inşa ettiği güveni baltaladı."
+    },
+    {
+      "id": "empiricism",
+      "word": "empiricism",
+      "level": "C1",
+      "meaning": "deneycilik",
+      "example": "Empiricism guided research that donors had funded.",
+      "example_tr": "Deneycilik bağışçıların finanse ettiği araştırmaya rehberlik etti."
+    },
+    {
+      "id": "encroachment",
+      "word": "encroachment",
+      "level": "C1",
+      "meaning": "tecavüz",
+      "example": "Encroachment on rights angered groups that the charter had protected.",
+      "example_tr": "Haklara tecavüz tüzüğün koruduğu grupları kızdırdı."
+    },
+    {
+      "id": "endemic",
+      "word": "endemic",
+      "level": "C1",
+      "meaning": "yaygın",
+      "example": "Corruption was endemic although the regime had denied it.",
+      "example_tr": "Rejim reddetse de yolsuzluk yaygındı."
+    },
+    {
+      "id": "enervate",
+      "word": "enervate",
+      "level": "C2",
+      "meaning": "zayıflatmak",
+      "example": "The crisis enervated institutions that decades had built.",
+      "example_tr": "Kriz onlarca yılın inşa ettiği kurumları zayıflattı."
+    },
+    {
+      "id": "enjoin",
+      "word": "enjoin",
+      "level": "C2",
+      "meaning": "emretmek",
+      "example": "The court enjoined conduct that the law had prohibited.",
+      "example_tr": "Mahkeme yasanın yasakladığı davranışı yasakladı."
+    },
+    {
+      "id": "epistemic",
+      "word": "epistemic",
+      "level": "C2",
+      "meaning": "bilgisel",
+      "example": "Epistemic uncertainty complicated decisions that policymakers faced.",
+      "example_tr": "Bilgisel belirsizlik politika yapıcıların karşılaştığı kararları zorlaştırdı."
+    },
+    {
+      "id": "equanimity",
+      "word": "equanimity",
+      "level": "C2",
+      "meaning": "sükunet",
+      "example": "Officials maintained equanimity although the crisis had deepened.",
+      "example_tr": "Kriz derinleşse de yetkililer sükunetlerini korudu."
+    },
+    {
+      "id": "equipoise",
+      "word": "equipoise",
+      "level": "C2",
+      "meaning": "denge",
+      "example": "The pact achieved equipoise that both sides had sought.",
+      "example_tr": "Pakt her iki tarafın aradığı dengeyi sağladı."
+    },
+    {
+      "id": "erudite",
+      "word": "erudite",
+      "level": "C1",
+      "meaning": "bilgili",
+      "example": "Erudite scholars challenged assumptions that officials repeated.",
+      "example_tr": "Bilgili akademisyenler yetkililerin tekrarladığı varsayımlara itiraz etti."
+    },
+    {
+      "id": "eschew",
+      "word": "eschew",
+      "level": "C2",
+      "meaning": "kaçınmak",
+      "example": "The policy eschewed measures that critics had recommended.",
+      "example_tr": "Politika eleştirmenlerin önerdiği önlemlerden kaçındı."
+    },
+    {
+      "id": "ethos",
+      "word": "ethos",
+      "level": "C1",
+      "meaning": "etik",
+      "example": "The ethos of the institution guided conduct that members had adopted.",
+      "example_tr": "Kurumun etiği üyelerin benimsediği davranışa rehberlik etti."
+    },
+    {
+      "id": "eulogy",
+      "word": "eulogy",
+      "level": "C1",
+      "meaning": "övgü",
+      "example": "The eulogy honoured victims that the war had claimed.",
+      "example_tr": "Övgü savaşın kurbanlarını onurlandırdı."
+    },
+    {
+      "id": "euphemism",
+      "word": "euphemism",
+      "level": "C1",
+      "meaning": "örtmece",
+      "example": "Euphemisms obscured harms that the report had documented.",
+      "example_tr": "Örtmeceler raporun belgelendirdiği zararları gizledi."
+    },
+    {
+      "id": "evince",
+      "word": "evince",
+      "level": "C2",
+      "meaning": "göstermek",
+      "example": "The data evinced patterns that models had predicted.",
+      "example_tr": "Veri modellerin öngördüğü kalıpları gösterdi."
+    },
+    {
+      "id": "excoriate",
+      "word": "excoriate",
+      "level": "C2",
+      "meaning": "şiddetle eleştirmek",
+      "example": "Critics excoriated officials whom the inquiry had named.",
+      "example_tr": "Eleştirmenler soruşturmanın adını verdiği yetkilileri şiddetle eleştirdi."
+    },
+    {
+      "id": "exculpate",
+      "word": "exculpate",
+      "level": "C2",
+      "meaning": "aklamak",
+      "example": "The ruling exculpated defendants whom the prosecution had accused.",
+      "example_tr": "Karar iddianamenin suçladığı sanıkları akladı."
+    },
+    {
+      "id": "exigency",
+      "word": "exigency",
+      "level": "C1",
+      "meaning": "aciliyet",
+      "example": "The exigency of the crisis demanded action that delay had prevented.",
+      "example_tr": "Krizin aciliyeti gecikmenin engellediği eylemi talep etti."
+    },
+    {
+      "id": "exiguous",
+      "word": "exiguous",
+      "level": "C2",
+      "meaning": "az",
+      "example": "Exiguous resources limited programmes that donors had planned.",
+      "example_tr": "Az kaynaklar bağışçıların planladığı programları sınırladı."
+    },
+    {
+      "id": "expatriate",
+      "word": "expatriate",
+      "level": "C1",
+      "meaning": "yurtdışında yaşayan",
+      "example": "Expatriates remitted funds that families had relied on.",
+      "example_tr": "Yurtdışında yaşayanlar ailelerin dayandığı fonları gönderdi."
+    },
+    {
+      "id": "explicate",
+      "word": "explicate",
+      "level": "C2",
+      "meaning": "açıklamak",
+      "example": "The study explicated mechanisms that prior work had obscured.",
+      "example_tr": "Çalışma önceki çalışmaların kararttığı mekanizmaları açıkladı."
+    },
+    {
+      "id": "expurgate",
+      "word": "expurgate",
+      "level": "C2",
+      "meaning": "sansürlemek",
+      "example": "Officials expurgated content that the law had protected.",
+      "example_tr": "Yetkililer yasanın koruduğu içeriği sansürledi."
+    },
+    {
+      "id": "extant",
+      "word": "extant",
+      "level": "C1",
+      "meaning": "mevcut",
+      "example": "Extant records documented events that historians had debated.",
+      "example_tr": "Mevcut kayıtlar tarihçilerin tartıştığı olayları belgelendirdi."
+    },
+    {
+      "id": "extirpate",
+      "word": "extirpate",
+      "level": "C2",
+      "meaning": "kökünü kazımak",
+      "example": "The campaign extirpated practices that the law had prohibited.",
+      "example_tr": "Kampanya yasanın yasakladığı uygulamaların kökünü kazıdı."
+    },
+    {
+      "id": "extol",
+      "word": "extol",
+      "level": "C1",
+      "meaning": "övmek",
+      "example": "Officials extolled reforms that critics had condemned.",
+      "example_tr": "Yetkililer eleştirmenlerin kınadığı reformları övdü."
+    },
+    {
+      "id": "extrapolation",
+      "word": "extrapolation",
+      "level": "C2",
+      "meaning": "genelleme",
+      "example": "Extrapolation from samples misled policymakers that data had guided.",
+      "example_tr": "Örneklerden genelleme verinin yönlendirdiği politika yapıcıları yanılttı."
+    },
+    {
+      "id": "facetious",
+      "word": "facetious",
+      "level": "C2",
+      "meaning": "şakacı",
+      "example": "Facetious remarks undermined the gravity that the crisis had demanded.",
+      "example_tr": "Şakacı sözler krizin gerektirdiği ciddiyeti zayıflattı."
+    },
+    {
+      "id": "facilitator",
+      "word": "facilitator",
+      "level": "C1",
+      "meaning": "kolaylaştırıcı",
+      "example": "The facilitator eased talks that parties had prolonged.",
+      "example_tr": "Kolaylaştırıcı tarafların uzattığı görüşmeleri kolaylaştırdı."
+    },
+    {
+      "id": "fallacious",
+      "word": "fallacious",
+      "level": "C1",
+      "meaning": "yanıltıcı",
+      "example": "Fallacious arguments undermined claims that the defence had raised.",
+      "example_tr": "Yanıltıcı argümanlar savunmanın ileri sürdüğü iddiaları zayıflattı."
+    },
+    {
+      "id": "fatuous",
+      "word": "fatuous",
+      "level": "C2",
+      "meaning": "aptalca",
+      "example": "Fatuous comments angered groups that the pact had united.",
+      "example_tr": "Aptalca yorumlar paktın birleştirdiği grupları kızdırdı."
+    },
+    {
+      "id": "fealty",
+      "word": "fealty",
+      "level": "C2",
+      "meaning": "sadakat",
+      "example": "Fealty to norms guided conduct that the charter had mandated.",
+      "example_tr": "Normlara sadakat tüzüğün zorunlu kıldığı davranışa rehberlik etti."
+    },
+    {
+      "id": "felicitous",
+      "word": "felicitous",
+      "level": "C2",
+      "meaning": "uygun",
+      "example": "The felicitous timing eased concerns that markets had harboured.",
+      "example_tr": "Uygun zamanlama piyasaların beslediği kaygıları giderdi."
+    },
+    {
+      "id": "fiat",
+      "word": "fiat",
+      "level": "C1",
+      "meaning": "ferman",
+      "example": "The fiat imposed rules that parliament had not approved.",
+      "example_tr": "Ferman parlamentonun onaylamadığı kuralları dayattı."
+    },
+    {
+      "id": "filibuster",
+      "word": "filibuster",
+      "level": "C1",
+      "meaning": "obstrüksiyon",
+      "example": "The filibuster blocked bills that the cabinet had proposed.",
+      "example_tr": "Obstrüksiyon kabinenin önerdiği yasaları engelledi."
+    },
+    {
+      "id": "finesse",
+      "word": "finesse",
+      "level": "C1",
+      "meaning": "ustalık",
+      "example": "Diplomatic finesse secured terms that rivals had rejected.",
+      "example_tr": "Diplomatik ustalık rakiplerin reddettiği koşulları aldı."
+    },
+    {
+      "id": "flagging",
+      "word": "flagging",
+      "level": "C1",
+      "meaning": "zayıflayan",
+      "example": "Flagging support worried leaders whom polls had favoured.",
+      "example_tr": "Zayıflayan destek anketlerin tercih ettiği liderleri endişelendirdi."
+    },
+    {
+      "id": "flippant",
+      "word": "flippant",
+      "level": "C2",
+      "meaning": "ciddiyetsiz",
+      "example": "Flippant remarks angered groups that the crisis had affected.",
+      "example_tr": "Ciddiyetsiz sözler krizden etkilenen grupları kızdırdı."
+    },
+    {
+      "id": "florid",
+      "word": "florid",
+      "level": "C2",
+      "meaning": "süslü",
+      "example": "Florid rhetoric obscured points that the report had made.",
+      "example_tr": "Süslü retorik raporun yaptığı noktaları kararttı."
+    },
+    {
+      "id": "foible",
+      "word": "foible",
+      "level": "C2",
+      "meaning": "zayıf yön",
+      "example": "The foible undermined credibility that the party had built.",
+      "example_tr": "Zayıf yön partinin inşa ettiği güvenilirliği zayıflattı."
+    },
+    {
+      "id": "forbear",
+      "word": "forbear",
+      "level": "C2",
+      "meaning": "sabretmek",
+      "example": "Officials forbore from acting when the crisis had demanded speed.",
+      "example_tr": "Kriz hız talep ederken yetkililer harekete geçmekten sabretti."
+    },
+    {
+      "id": "foreclose",
+      "word": "foreclose",
+      "level": "C2",
+      "meaning": "iptal etmek",
+      "example": "The ruling foreclosed options that parties had considered.",
+      "example_tr": "Karar tarafların düşündüğü seçenekleri iptal etti."
+    },
+    {
+      "id": "forgo",
+      "word": "forgo",
+      "level": "C1",
+      "meaning": "vazgeçmek",
+      "example": "The state forwent revenue that tax cuts had cost.",
+      "example_tr": "Devlet vergi indirimlerinin maliyetine gelen gelirden vazgeçti."
+    },
+    {
+      "id": "forswear",
+      "word": "forswear",
+      "level": "C2",
+      "meaning": "yeminle reddetmek",
+      "example": "Officials forswore conduct that the law had prohibited.",
+      "example_tr": "Yetkililer yasanın yasakladığı davranışı yeminle reddetti."
+    },
+    {
+      "id": "fortuitous",
+      "word": "fortuitous",
+      "level": "C1",
+      "meaning": "tesadüfi",
+      "example": "Fortuitous timing eased concerns that markets had harboured.",
+      "example_tr": "Tesadüfi zamanlama piyasaların beslediği kaygıları giderdi."
+    },
+    {
+      "id": "fractious",
+      "word": "fractious",
+      "level": "C2",
+      "meaning": "huysuz",
+      "example": "Fractious debates blocked reforms that the cabinet had proposed.",
+      "example_tr": "Huysuz tartışmalar kabinenin önerdiği reformları engelledi."
+    },
+    {
+      "id": "franchise",
+      "word": "franchise",
+      "level": "C1",
+      "meaning": "oy hakkı",
+      "example": "The franchise extended to groups that the law had excluded.",
+      "example_tr": "Oy hakkı yasanın dışladığı gruplara genişletildi."
+    },
+    {
+      "id": "frivolous",
+      "word": "frivolous",
+      "level": "C1",
+      "meaning": "önemsiz",
+      "example": "Frivolous claims wasted resources that courts had allocated.",
+      "example_tr": "Önemsiz iddialar mahkemelerin ayırdığı kaynakları israf etti."
+    },
+    {
+      "id": "frugality",
+      "word": "frugality",
+      "level": "C1",
+      "meaning": "tutumluluk",
+      "example": "Frugality limited spending that programmes had required.",
+      "example_tr": "Tutumluluk programların ihtiyaç duyduğu harcamayı sınırladı."
+    },
+    {
+      "id": "fulminate",
+      "word": "fulminate",
+      "level": "C2",
+      "meaning": "öfkeyle kınamak",
+      "example": "Critics fulminated against policies that the regime had adopted.",
+      "example_tr": "Eleştirmenler rejimin benimsediği politikaları öfkeyle kınadı."
+    },
+    {
+      "id": "foment",
+      "word": "foment",
+      "level": "C2",
+      "meaning": "kışkırtmak",
+      "example": "Leaders fomented unrest that the law had sought to prevent.",
+      "example_tr": "Liderler yasanın önlemek istediği huzursuzluğu kışkırttı."
+    },
+    {
+      "id": "forbearance",
+      "word": "forbearance",
+      "level": "C2",
+      "meaning": "sabır",
+      "example": "Creditors showed forbearance when debtors had requested relief.",
+      "example_tr": "Borçlular rahatlama talep edince alacaklılar sabır gösterdi."
+    },
+    {
+      "id": "gambit",
+      "word": "gambit",
+      "level": "C2",
+      "meaning": "girişim",
+      "example": "The diplomatic gambit failed although mediators had backed it.",
+      "example_tr": "Arabulucular desteklese de diplomatik girişim başarısız oldu."
+    },
+    {
+      "id": "garnish",
+      "word": "garnish",
+      "level": "C1",
+      "meaning": "süslemek",
+      "example": "The report garnished data that auditors had questioned.",
+      "example_tr": "Rapor denetçilerin sorguladığı veriyi süsledi."
+    },
+    {
+      "id": "garrulous",
+      "word": "garrulous",
+      "level": "C2",
+      "meaning": "geveze",
+      "example": "Garrulous officials obscured points that the meeting had raised.",
+      "example_tr": "Geveze yetkililer toplantının gündeme getirdiği noktaları kararttı."
+    },
+    {
+      "id": "germane",
+      "word": "germane",
+      "level": "C2",
+      "meaning": "ilgili",
+      "example": "Only germane evidence was allowed although the defence had objected.",
+      "example_tr": "Savunma itiraz etse de yalnızca ilgili kanıta izin verildi."
+    },
+    {
+      "id": "gist",
+      "word": "gist",
+      "level": "C1",
+      "meaning": "özet",
+      "example": "The gist of the ruling surprised parties that had expected more.",
+      "example_tr": "Kararın özeti daha fazlasını bekleyen tarafları şaşırttı."
+    },
+    {
+      "id": "goad",
+      "word": "goad",
+      "level": "C2",
+      "meaning": "kışkırtmak",
+      "example": "Leaders goaded crowds that the law had sought to disperse.",
+      "example_tr": "Liderler yasanın dağıtmak istediği kalabalıkları kışkırttı."
+    },
+    {
+      "id": "gouge",
+      "word": "gouge",
+      "level": "C2",
+      "meaning": "kazımak",
+      "example": "Firms gouged prices when competition had weakened.",
+      "example_tr": "Rekabet zayıflayınca firmalar fiyatları fırlattı."
+    },
+    {
+      "id": "grandstand",
+      "word": "grandstand",
+      "level": "C2",
+      "meaning": "gösteriş yapmak",
+      "example": "Politicians grandstanded although the crisis had demanded action.",
+      "example_tr": "Kriz eylem talep etse de politikacılar gösteriş yaptı."
+    },
+    {
+      "id": "gratuitous",
+      "word": "gratuitous",
+      "level": "C2",
+      "meaning": "gereksiz",
+      "example": "Gratuitous violence shocked viewers whom the film had targeted.",
+      "example_tr": "Gereksiz şiddet filmin hedeflediği izleyicileri şoke etti."
+    },
+    {
+      "id": "grisly",
+      "word": "grisly",
+      "level": "C2",
+      "meaning": "dehşet verici",
+      "example": "Grisly details emerged when the inquiry had deepened.",
+      "example_tr": "Soruşturma derinleşince dehşet verici ayrıntılar ortaya çıktı."
+    },
+    {
+      "id": "grouse",
+      "word": "grouse",
+      "level": "C2",
+      "meaning": "şikayet etmek",
+      "example": "Citizens groused about cuts that the budget had imposed.",
+      "example_tr": "Vatandaşlar bütçenin dayattığı kesintilerden şikayet etti."
+    },
+    {
+      "id": "guileless",
+      "word": "guileless",
+      "level": "C2",
+      "meaning": "saf",
+      "example": "Guileless witnesses convinced juries that lawyers had doubted.",
+      "example_tr": "Saf tanıklar avukatların şüphe ettiği jürileri ikna etti."
+    },
+    {
+      "id": "hackneyed",
+      "word": "hackneyed",
+      "level": "C2",
+      "meaning": "klişe",
+      "example": "Hackneyed phrases weakened the speech that the leader had given.",
+      "example_tr": "Klişe ifadeler liderin yaptığı konuşmayı zayıflattı."
+    },
+    {
+      "id": "haggard",
+      "word": "haggard",
+      "level": "C1",
+      "meaning": "bitkin",
+      "example": "Haggard refugees reached borders that aid had failed to open.",
+      "example_tr": "Bitkin mülteciler yardımın açamadığı sınırlara ulaştı."
+    },
+    {
+      "id": "halcyon",
+      "word": "halcyon",
+      "level": "C2",
+      "meaning": "huzurlu",
+      "example": "The halcyon era ended when the crisis had erupted.",
+      "example_tr": "Kriz patlak verince huzurlu dönem sona erdi."
+    },
+    {
+      "id": "hallow",
+      "word": "hallow",
+      "level": "C2",
+      "meaning": "kutsamak",
+      "example": "The treaty hallowed norms that generations had fought for.",
+      "example_tr": "Antlaşma kuşakların savaştığı normları kutsadı."
+    },
+    {
+      "id": "hallucination",
+      "word": "hallucination",
+      "level": "C1",
+      "meaning": "halüsinasyon",
+      "example": "The claim was a hallucination that data had not supported.",
+      "example_tr": "İddia verinin desteklemediği bir halüsinasyondu."
+    },
+    {
+      "id": "hamstrung",
+      "word": "hamstrung",
+      "level": "C2",
+      "meaning": "elinden geleni yapamayan",
+      "example": "Hamstrung agencies failed to enforce rules that parliament had set.",
+      "example_tr": "Elinden geleni yapamayan kurumlar parlamentonun koyduğu kuralları uygulayamadı."
+    },
+    {
+      "id": "harrowing",
+      "word": "harrowing",
+      "level": "C1",
+      "meaning": "yürek parçalayıcı",
+      "example": "Harrowing accounts documented harms that disasters had caused.",
+      "example_tr": "Yürek parçalayıcı anlatılar felaketlerin verdiği zararları belgelendirdi."
+    },
+    {
+      "id": "haughty",
+      "word": "haughty",
+      "level": "C1",
+      "meaning": "kibirli",
+      "example": "Haughty officials dismissed concerns that the public had raised.",
+      "example_tr": "Kibirli yetkililer halkın dile getirdiği kaygıları reddetti."
+    },
+    {
+      "id": "hedge",
+      "word": "hedge",
+      "level": "C1",
+      "meaning": "korunmak",
+      "example": "Investors hedged when the crisis had deepened.",
+      "example_tr": "Kriz derinleşince yatırımcılar korundu."
+    },
+    {
+      "id": "hoodwink",
+      "word": "hoodwink",
+      "level": "C2",
+      "meaning": "kandırmak",
+      "example": "Officials hoodwinked the public although media had warned.",
+      "example_tr": "Medya uyarmış olsa da yetkililer halkı kandırdı."
+    },
+    {
+      "id": "humdrum",
+      "word": "humdrum",
+      "level": "C2",
+      "meaning": "sıradan",
+      "example": "Humdrum routines absorbed time that innovation had required.",
+      "example_tr": "Sıradan rutinler yeniliğin ihtiyaç duyduğu zamanı tüketti."
+    },
+    {
+      "id": "hyperbole",
+      "word": "hyperbole",
+      "level": "C1",
+      "meaning": "abartı",
+      "example": "Hyperbole distorted claims that the report had made.",
+      "example_tr": "Abartı raporun yaptığı iddiaları çarpıttı."
+    },
+    {
+      "id": "iconoclast",
+      "word": "iconoclast",
+      "level": "C2",
+      "meaning": "yerleşik düşünceye karşı çıkan",
+      "example": "The iconoclast challenged norms that institutions had defended.",
+      "example_tr": "Yerleşik düşünceye karşı çıkan kurumların savunduğu normlara meydan okudu."
+    },
+    {
+      "id": "idolatry",
+      "word": "idolatry",
+      "level": "C2",
+      "meaning": "putperestlik",
+      "example": "Idolatry of power drove conduct that the charter had condemned.",
+      "example_tr": "İktidar putperestliği tüzüğün kınadığı davranışı tetikledi."
+    },
+    {
+      "id": "ignominy",
+      "word": "ignominy",
+      "level": "C2",
+      "meaning": "utanç",
+      "example": "The ignominy of defeat shocked supporters who had expected victory.",
+      "example_tr": "Yenilginin utancı zafer bekleyen taraftarları şoke etti."
+    },
+    {
+      "id": "illiquid",
+      "word": "illiquid",
+      "level": "C2",
+      "meaning": "likit olmayan",
+      "example": "Illiquid assets trapped capital that banks had needed.",
+      "example_tr": "Likit olmayan varlıklar bankaların ihtiyaç duyduğu sermayeyi hapsetti."
+    },
+    {
+      "id": "imbroglio",
+      "word": "imbroglio",
+      "level": "C2",
+      "meaning": "karmaşa",
+      "example": "The imbroglio delayed talks that mediators had brokered.",
+      "example_tr": "Karmaşa arabulucuların aracılık ettiği görüşmeleri geciktirdi."
+    },
+    {
+      "id": "immolate",
+      "word": "immolate",
+      "level": "C2",
+      "meaning": "kendini feda etmek",
+      "example": "Protesters immolated themselves when the regime had refused.",
+      "example_tr": "Rejim reddedince protestocular kendilerini feda etti."
+    },
+    {
+      "id": "kudos",
+      "word": "kudos",
+      "level": "C2",
+      "meaning": "övgü",
+      "example": "Kudos went to teams that the review had praised.",
+      "example_tr": "Övgü incelemenin övdüğü ekiplere gitti."
+    },
+    {
+      "id": "laconic",
+      "word": "laconic",
+      "level": "C2",
+      "meaning": "kısa",
+      "example": "Laconic replies frustrated MPs whom the session had summoned.",
+      "example_tr": "Kısa yanıtlar oturumun çağırdığı milletvekillerini hayal kırıklığına uğrattı."
+    },
+    {
+      "id": "largesse",
+      "word": "largesse",
+      "level": "C2",
+      "meaning": "cömertlik",
+      "example": "Largesse favoured regions that donors had targeted.",
+      "example_tr": "Cömertlik bağışçıların hedeflediği bölgelere gitti."
+    },
+    {
+      "id": "laud",
+      "word": "laud",
+      "level": "C1",
+      "meaning": "övmek",
+      "example": "Critics lauded reforms that the bloc had urged.",
+      "example_tr": "Eleştirmenler bloğun ısrarla istediği reformları övdü."
+    },
+    {
+      "id": "loath",
+      "word": "loath",
+      "level": "C2",
+      "meaning": "isteksiz",
+      "example": "Officials were loath to act although the crisis had worsened.",
+      "example_tr": "Kriz kötüleşse de yetkililer harekete geçmekte isteksizdi."
+    },
+    {
+      "id": "magnanimous",
+      "word": "magnanimous",
+      "level": "C2",
+      "meaning": "cömert",
+      "example": "A magnanimous gesture eased tensions that the dispute had raised.",
+      "example_tr": "Cömert bir jest anlaşmazlığın yükselttiği gerginliği azalttı."
+    },
+    {
+      "id": "malleable",
+      "word": "malleable",
+      "level": "C2",
+      "meaning": "şekillendirilebilir",
+      "example": "Malleable rules allowed flexibility that the pact had sought.",
+      "example_tr": "Şekillendirilebilir kurallar paktın aradığı esnekliğe izin verdi."
+    },
+    {
+      "id": "moratorium",
+      "word": "moratorium",
+      "level": "C1",
+      "meaning": "moratoryum",
+      "example": "A moratorium halted projects that the court had questioned.",
+      "example_tr": "Moratoryum mahkemenin sorguladığı projeleri durdurdu."
+    },
+    {
+      "id": "nonchalant",
+      "word": "nonchalant",
+      "level": "C2",
+      "meaning": "kayıtsız",
+      "example": "Nonchalant responses angered voters whom the crisis had affected.",
+      "example_tr": "Kayıtsız yanıtlar krizden etkilenen seçmenleri kızdırdı."
+    },
+    {
+      "id": "obstinate",
+      "word": "obstinate",
+      "level": "C2",
+      "meaning": "inatçı",
+      "example": "Obstinate leaders blocked deals that mediators had brokered.",
+      "example_tr": "İnatçı liderler arabulucuların aracılık ettiği anlaşmaları engelledi."
+    },
+    {
+      "id": "ostracize",
+      "word": "ostracize",
+      "level": "C2",
+      "meaning": "dışlamak",
+      "example": "The bloc ostracized states that the resolution had condemned.",
+      "example_tr": "Blok kararın kınadığı devletleri dışladı."
+    },
+    {
+      "id": "panacea",
+      "word": "panacea",
+      "level": "C2",
+      "meaning": "her derde deva",
+      "example": "Reform was no panacea although donors had hoped.",
+      "example_tr": "Bağışçılar umutlanmış olsa da reform her derde deva değildi."
+    },
+    {
+      "id": "parochial",
+      "word": "parochial",
+      "level": "C2",
+      "meaning": "dar görüşlü",
+      "example": "Parochial interests blocked reforms that the pact had mandated.",
+      "example_tr": "Dar görüşlü çıkarlar paktın zorunlu kıldığı reformları engelledi."
+    },
+    {
+      "id": "parsimony",
+      "word": "parsimony",
+      "level": "C2",
+      "meaning": "cimrilik",
+      "example": "Parsimony in aid angered regions that disasters had hit.",
+      "example_tr": "Yardımda cimrilik felaketlerin vurduğu bölgeleri kızdırdı."
+    },
+    {
+      "id": "paucity",
+      "word": "paucity",
+      "level": "C2",
+      "meaning": "yokluk",
+      "example": "A paucity of data limited findings that researchers had sought.",
+      "example_tr": "Veri yokluğu araştırmacıların aradığı bulguları sınırladı."
+    },
+    {
+      "id": "pedantic",
+      "word": "pedantic",
+      "level": "C2",
+      "meaning": "aşırı titiz",
+      "example": "Pedantic objections delayed the vote that the house had scheduled.",
+      "example_tr": "Aşırı titiz itirazlar meclisin planladığı oylamayı geciktirdi."
+    },
+    {
+      "id": "permeable",
+      "word": "permeable",
+      "level": "C2",
+      "meaning": "geçirgen",
+      "example": "Permeable borders allowed flows that the pact had sought to control.",
+      "example_tr": "Geçirgen sınırlar paktın kontrol etmek istediği akışlara izin verdi."
+    },
+    {
+      "id": "pernicious",
+      "word": "pernicious",
+      "level": "C2",
+      "meaning": "zararlı",
+      "example": "Pernicious effects followed policies that experts had warned against.",
+      "example_tr": "Uzmanların uyardığı politikaları zararlı etkiler izledi."
+    },
+    {
+      "id": "plethora",
+      "word": "plethora",
+      "level": "C1",
+      "meaning": "bol miktar",
+      "example": "A plethora of options confused voters that the campaign had targeted.",
+      "example_tr": "Bol miktarda seçenek kampanyanın hedeflediği seçmenleri şaşırttı."
+    },
+    {
+      "id": "prevaricate",
+      "word": "prevaricate",
+      "level": "C2",
+      "meaning": "kaçamak konuşmak",
+      "example": "Officials prevaricated when the inquiry had demanded answers.",
+      "example_tr": "Soruşturma yanıt istediğinde yetkililer kaçamak konuştu."
+    },
+    {
+      "id": "primacy",
+      "word": "primacy",
+      "level": "C2",
+      "meaning": "öncelik",
+      "example": "The primacy of law guided conduct that the charter had mandated.",
+      "example_tr": "Hukukun önceliği tüzüğün zorunlu kıldığı davranışa rehberlik etti."
+    },
+    {
+      "id": "quandary",
+      "word": "quandary",
+      "level": "C2",
+      "meaning": "ikilem",
+      "example": "Leaders faced a quandary that the crisis had created.",
+      "example_tr": "Liderler krizin yarattığı ikilemle karşı karşıya kaldı."
+    },
+    {
+      "id": "rapport",
+      "word": "rapport",
+      "level": "C1",
+      "meaning": "uyum",
+      "example": "Rapport between sides enabled talks that mediators had brokered.",
+      "example_tr": "Taraflar arası uyum arabulucuların aracılık ettiği görüşmeleri mümkün kıldı."
+    },
+    {
+      "id": "receptive",
+      "word": "receptive",
+      "level": "C1",
+      "meaning": "alıcı",
+      "example": "Receptive audiences welcomed ideas that the report had proposed.",
+      "example_tr": "Alıcı dinleyiciler raporun önerdiği fikirleri olumlu karşıladı."
+    },
+    {
+      "id": "recourse",
+      "word": "recourse",
+      "level": "C1",
+      "meaning": "başvuru",
+      "example": "Citizens had no recourse when the state had failed.",
+      "example_tr": "Devlet başarısız olunca vatandaşların başvuracak yeri yoktu."
+    },
+    {
+      "id": "relegate",
+      "word": "relegate",
+      "level": "C2",
+      "meaning": "gönderilmek",
+      "example": "The ruling relegated the case to courts that had no jurisdiction.",
+      "example_tr": "Karar davayı yetkisi olmayan mahkemelere gönderdi."
+    },
+    {
+      "id": "remnant",
+      "word": "remnant",
+      "level": "C1",
+      "meaning": "kalıntı",
+      "example": "Remnants of the regime resisted reforms that the pact had mandated.",
+      "example_tr": "Rejimin kalıntıları paktın zorunlu kıldığı reformlara direndi."
+    },
+    {
+      "id": "reparation",
+      "word": "reparation",
+      "level": "C1",
+      "meaning": "tazminat",
+      "example": "Reparations addressed harms that the conflict had caused.",
+      "example_tr": "Tazminatlar çatışmanın verdiği zararları gidermeye yönelikti."
+    },
+    {
+      "id": "reticent",
+      "word": "reticent",
+      "level": "C2",
+      "meaning": "ketum",
+      "example": "Reticent officials withheld data that the inquiry had requested.",
+      "example_tr": "Ketum yetkililer soruşturmanın istediği veriyi vermedi."
+    },
+    {
+      "id": "retroactive",
+      "word": "retroactive",
+      "level": "C2",
+      "meaning": "geriye dönük",
+      "example": "Retroactive rules angered firms that had complied.",
+      "example_tr": "Geriye dönük kurallar uymuş firmaları kızdırdı."
+    },
+    {
+      "id": "rhetoric",
+      "word": "rhetoric",
+      "level": "B2",
+      "meaning": "retorik",
+      "example": "Empty rhetoric failed to address issues that the pact had raised.",
+      "example_tr": "Boş retorik paktın gündeme getirdiği konuları ele alamadı."
+    },
+    {
+      "id": "sequester",
+      "word": "sequester",
+      "level": "C2",
+      "meaning": "tecrit etmek",
+      "example": "The court sequestered assets that the accused had hidden.",
+      "example_tr": "Mahkeme sanığın gizlediği varlıkları tecrit etti."
+    },
+    {
+      "id": "shrewd",
+      "word": "shrewd",
+      "level": "C1",
+      "meaning": "zeki",
+      "example": "Shrewd negotiators secured terms that the bloc had sought.",
+      "example_tr": "Zeki müzakereciler bloğun aradığı koşulları güvence altına aldı."
+    },
+    {
+      "id": "sparse",
+      "word": "sparse",
+      "level": "C1",
+      "meaning": "seyrek",
+      "example": "Sparse data limited conclusions that researchers had drawn.",
+      "example_tr": "Seyrek veri araştırmacıların vardığı sonuçları sınırladı."
+    },
+    {
+      "id": "stagnant",
+      "word": "stagnant",
+      "level": "C1",
+      "meaning": "durgun",
+      "example": "Stagnant growth worried donors that the pact had mobilised.",
+      "example_tr": "Durgun büyüme paktın seferber ettiği bağışçıları endişelendirdi."
+    },
+    {
+      "id": "stigma",
+      "word": "stigma",
+      "level": "C1",
+      "meaning": "damga",
+      "example": "Stigma attached to groups that the law had marginalised.",
+      "example_tr": "Yasanın marjinalleştirdiği gruplara damga yapıştı."
+    },
+    {
+      "id": "tacit",
+      "word": "tacit",
+      "level": "C1",
+      "meaning": "zımni",
+      "example": "Tacit consent enabled conduct that the charter had not forbidden.",
+      "example_tr": "Zımni rıza tüzüğün yasaklamadığı davranışı mümkün kıldı."
+    },
+    {
+      "id": "tenuous",
+      "word": "tenuous",
+      "level": "C2",
+      "meaning": "zayıf",
+      "example": "Tenuous links between groups weakened the pact that mediators had brokered.",
+      "example_tr": "Gruplar arası zayıf bağlar arabulucuların aracılık ettiği paktı zayıflattı."
+    },
+    {
+      "id": "vindicate",
+      "word": "vindicate",
+      "level": "C2",
+      "meaning": "haklı çıkarmak",
+      "example": "The ruling vindicated claims that the defence had made.",
+      "example_tr": "Karar savunmanın yaptığı iddiaları haklı çıkardı."
+    }
+  ]
+}
